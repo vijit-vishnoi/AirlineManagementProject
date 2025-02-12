@@ -7,3 +7,6 @@
 [submodule "Reminder_Service"]
 	path = Reminder_Service
 	url = https://github.com/vijit-vishnoi/ReminderService.git
+[submodule "AirTicketBookingService"]
+	path = AirTicketBookingService
+	url = https://github.com/vijit-vishnoi/AirTicketBookingService.git
