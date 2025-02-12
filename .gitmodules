@@ -4,3 +4,6 @@
 [submodule "Auth_Service"]
 	path = Auth_Service
 	url = https://github.com/vijit-vishnoi/Auth_Service.git
+[submodule "Reminder_Service"]
+	path = Reminder_Service
+	url = https://github.com/vijit-vishnoi/ReminderService.git
