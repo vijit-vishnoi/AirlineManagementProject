@@ -1,0 +1,3 @@
+[submodule "API_Gateway-folder"]
+	path = API_Gateway-folder
+	url = https://github.com/vijit-vishnoi/API_Gateway.git
