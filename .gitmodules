@@ -1,3 +1,6 @@
 [submodule "API_Gateway-folder"]
 	path = API_Gateway-folder
 	url = https://github.com/vijit-vishnoi/API_Gateway.git
+[submodule "Auth_Service"]
+	path = Auth_Service
+	url = https://github.com/vijit-vishnoi/Auth_Service.git
