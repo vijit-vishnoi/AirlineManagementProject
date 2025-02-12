@@ -10,3 +10,6 @@
 [submodule "AirTicketBookingService"]
 	path = AirTicketBookingService
 	url = https://github.com/vijit-vishnoi/AirTicketBookingService.git
+[submodule "FlightAndSearchService"]
+	path = FlightAndSearchService
+	url = https://github.com/vijit-vishnoi/FlightAndSearchService.git
